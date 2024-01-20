@@ -1,0 +1,8 @@
+{
+    "name": "arvan maulana",
+    "description": "anime vanmaul",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Vanmaul29/cloudstream-extensions-hexated/builds/plugins.json"
+    ]
+}
